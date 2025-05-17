@@ -1,0 +1,16 @@
+{
+  "courses": [
+    {
+      "title": "Embedded Systems",
+      "videos": [
+        { "title": "Lecture 2 - Embedded C", "url": "https://drive.google.com/file/d/1RcPS2w6o2n8tEZTdvnkEuZ8KpBd46rEc/view?usp=sharing" },
+        { "title": "Lecture 3 - Timers, Ports, and Bouncing", "url": "https://drive.google.com/file/d/1ECZOoj23pc3FAx9KP13aKObICijPIPlA/view?usp=drive_link" },
+        { "title": "Lecture 4 - Interrupts", "url": "https://drive.google.com/file/d/1LQcpXpZ3u4jYJYfHgHoHtzAnt0PLE7mg/view?usp=sharing" },
+        { "title": "Lecture 5 - LED Matrix", "url": "https://drive.google.com/file/d/1CddyWNGXwXfJNhpAXoCXxkM_jEwRhf3q/view?usp=drive_link" },
+        { "title": "Lecture 6 - Keypad", "url": "https://drive.google.com/file/d/1qGZEFg4jXp9_4GLf7TieUFt8VgVqWOas/view?usp=drive_link" },
+        { "title": "Lecture 8 - Serial Comm., 7-Seg", "url": "https://drive.google.com/file/d/1tRBeDuAeq_R01AYuPa7JwfI8aOnNKp7I/view?usp=drive_link" },
+        { "title": "Lecture 9 - Motors", "url": "https://drive.google.com/file/d/1YHkbFYGxZEOECjJOePGpYaoIuggtbUSS/view?usp=sharing" }
+      ]
+    }
+  ]
+}

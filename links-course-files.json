@@ -1,0 +1,12 @@
+{
+  "courses": [
+    {
+      "title": "Embedded Systems",
+      "videos": [
+        { "title": "Lectures Files", "url": "https://drive.google.com/file/d/191yRN3ms6iW2jaN5nNpFHU06qhmdX6qR/view?usp=sharing" },
+        { "title": "Sheets Files", "url": "https://drive.google.com/file/d/1pbMqG8x2M9lJFJuy9ss2O0hxccwgOlrQ/view?usp=drive_link" },
+        { "title": "Revision Files", "url": "https://drive.google.com/file/d/10MDVkb-Ri39krRhmpQxPV6fAXC4ys_7-/view?usp=drive_link" }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 body {
     background-color: #121212;
     color: #fff;
-    font-family: 'Segoe UI', sans-serif;
+    font-family: 'JetBrains Mono', monospace;
     font-size: larger;
     margin: 0;
     padding: 0;
@@ -100,4 +100,17 @@ h1#title {
     text-align: center;
     margin-top: 1rem;
     margin-bottom: 2rem;
+}
+
+.otherpage {
+    color: #fff;
+    text-decoration: none;
+}
+
+.otherpage:hover {
+    text-decoration: underline;
+}
+
+.title-main {
+    color: #fff;
 }
